@@ -1,13 +1,13 @@
-README file for MSU FullStackCoding Boot Camp HomeWork assignment 1 due 11-30-20 before class.<cr>
-***URL of launched page***<cr>
+README file for MSU FullStackCoding Boot Camp HomeWork assignment 1 due 11-30-20 before class.;
+***URL of launched page***;
 https://stevebecmpe.github.io/SteveBecmpe.homework.nov30.2020/
-<cr>
-***Not sure how to add a screen shot into this type of file***<cr>
-***Description of work performed***<cr>
-all notes refer to the HTML file except where noted at the end of the statment<cr>
-"-" denotes the beginning of each item. Items are not numbered for simplicity.<cr>
-if you don't see a - at the beginning of a line it is still part of the last line.<cr>
-"+" denotes a sub item of a "-" item.<cr>
+;
+***Not sure how to add a screen shot into this type of file***;
+***Description of work performed***;
+all notes refer to the HTML file except where noted at the end of the statment;
+"-" denotes the beginning of each item. Items are not numbered for simplicity.;
+if you don't see a - at the beginning of a line it is still part of the last line.;
+"+" denotes a sub item of a "-" item.;
 - rename both files WC for working copy incase of major screw up.. Not sure if this is common practice. Can rename later or copy and paste content into original files.
 - HTML - right click format document.. step 1 scout.. will do this before final save as well.
 - updated title to -> "Horiseon - Brand management"
