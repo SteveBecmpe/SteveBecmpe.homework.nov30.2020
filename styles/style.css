@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* body section of css file */
+body {
+    background-color: #d9dcd6;
+}
+/* header section of css file*/
+header {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: 'Trebuchet MS', 
+    'Lucida Sans Unicode', 
+    'Lucida Grande', 
+    'Lucida Sans', 
+    Arial, 
+    sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    height: 96px;
+}
+/*header h1 main top left horiseon*/
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+/* span style to change color of seo*/
+span {
+    color: #d9dcd6;
+}
+/*header navigation positions and style*/
+nav {
+    padding-top: 15px;
+    padding-right: 15px;
+    float: right;
+    font-family: 'Gill Sans', 
+    'Gill Sans MT', 
+    Calibri, 
+    'Trebuchet MS', 
+    sans-serif;
+    font-size: 20px;
+}
+/* first use of a in page inside header*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 25px;
+}
+/*main page image size and style*/
+figure img{
+    height: 800px;
+    width: 100%;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+/*main section style*/
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/*main section style */
+section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 
+    'Gill Sans MT', 
+    Calibri, 
+    'Trebuchet MS', 
+    sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;  
+}
+/*float left class to keep images to left*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+    height: 200px;
+}
+/*first use of h2 inside main*/
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*first use of p inside main section*/
+p {
+    font-size: 16px;   
+    margin-bottom: 32px;
+}
+/*float right class to keep images to right*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+    height: 200px;
+}
+/*side bar with three tops*/
+aside {
+    position: relative;
+    right:0; 
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    float: right;
+    width: 20%;
+    height: auto;
+    font-family: 'Gill Sans', 
+    'Gill Sans MT', 
+    Calibri, 
+    'Trebuchet MS', 
+    sans-serif;
+    background-color: #2589bd;
+    color: #ffffff; 
+    
+}
+/*first use of h3 in aside*/
+h3 {    
+    text-align: center;
+    margin-top: 20px;
+}
+/*class for side bar images to adjust size when width changes*/
+.asideimgs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    max-width: 44%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*footer*/
+footer {
+    padding-top: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/*first use of h4 header inside footer*/
+h4 {
+    font-size: 20px;
+}
+
